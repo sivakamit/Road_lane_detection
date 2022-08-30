@@ -1,4 +1,4 @@
-# LANE DETECTION USING DEEP LEARNING
+# Lane Detection using Deep Learning 
 
 Follow the below steps to run the code:
 1. pip install -r requirements.txt
